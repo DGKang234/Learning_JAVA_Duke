@@ -1,0 +1,9 @@
+Download and run BlueJ, the Java programming environment for this course;
+
+Access the documentation for the Java libraries specially designed for this course;
+
+Edit, compile, and run a Java program; 
+
+Construct methods, variables, if else statements, and for each loops in Java; and
+
+Use Iterables (like DirectoryResource) to run a program that iterates over multiples lines in a document or webpage or multiple files in a directory.
