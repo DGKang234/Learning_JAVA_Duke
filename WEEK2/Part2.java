@@ -1,7 +1,7 @@
 import edu.duke.*;
 import java.io.*;
 
-public class Part 2 { 
+public class Part2 { 
     public String findSimpleGene (String dna, String startCodon, String stopCodon) {
         int start = dna.toLowerCase().indexOf(startCodon.toLowerCase());
         if (start == -1) {      // no ATG
